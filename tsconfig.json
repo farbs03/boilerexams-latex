@@ -4,6 +4,12 @@
     "module": "NodeNext",
     "rootDir": "./src",
     "outDir": "./dist",
-    "declaration": true
+    "declaration": true,
+    "forceConsistentCasingInFileNames": true,
+    "verbatimModuleSyntax": true,
+    "strict": true,
+    "sourceMap": true,
+    "declarationMap": true,
+    "esModuleInterop": true,
   }
 }
