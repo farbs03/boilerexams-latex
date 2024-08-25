@@ -1,0 +1,8 @@
+Resource
+    - ResourceType
+    - URLResourceData
+    - CodeResourceData
+        - CodingLanguage
+QuestionType
+ImageResource
+    - URLResourceData
