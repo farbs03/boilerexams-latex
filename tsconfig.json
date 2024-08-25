@@ -11,5 +11,9 @@
     "sourceMap": true,
     "declarationMap": true,
     "esModuleInterop": true,
-  }
+  },
+  "exclude": [
+    "./tsup.config.ts",
+    "./dist/*"
+  ]
 }
