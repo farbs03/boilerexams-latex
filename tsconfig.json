@@ -4,5 +4,6 @@
     "module": "NodeNext",
     "rootDir": "src",
     "outDir": "dist",
+    "declaration": true
   }
 }
